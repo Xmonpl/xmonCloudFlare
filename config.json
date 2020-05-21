@@ -1,0 +1,8 @@
+{
+  "API_ID": "me@example.com",
+  "API_AUTH_KEY": "foo47eb745079dac9320b638f5e225cf483cc5cfdda41",
+  "ZONE_NAME": "example.com",
+  "ZONE_ID": "bar1105f4ecef8ad9ca31a8372d0c353",
+  "DNSREC_ID": "baz372954025e0ba6aaa6d586b9e0b59",
+  "IP": "83.27.166.106"
+}

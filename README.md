@@ -1,5 +1,5 @@
 # xmonCloudFlare
-Changes the IP for the domain on the CloudFlar when the ip address changes. The code is not the best, because the whole application was written in less than one hour.
+Changes the IP for the domain on CloudFlare when the ip address changes. The code is not the best, because the whole application was written in less than one hour.
 
 # Usage
 ```bash
